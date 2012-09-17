@@ -1,4 +1,4 @@
-PenAttention v2
+PenAttention beta 2X
 ============
 
 Cursor Highlighting Software for a Windows Tablet PC
