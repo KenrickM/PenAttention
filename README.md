@@ -1,4 +1,4 @@
-PenAttention
+PenAttention version 22
 ============
 
 Cursor Highlighting Software for a Windows Tablet PC
